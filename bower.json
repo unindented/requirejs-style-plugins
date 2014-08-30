@@ -1,0 +1,14 @@
+{
+  "name":    "requirejs-style-plugins",
+  "version": "0.0.1",
+
+  "main":   ["css.js", "less.js", "sass.js"],
+  "ignore": ["grunt", "test", "vendor", "bower.json", "package.json", "Gruntfile.js", "LICENSE", "README.md"],
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+    "requirejs": "~2.1.14"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name":        "requirejs-style-plugins",
+  "description": "Small set of plugins for RequireJS that deal with CSS and preprocessors.",
+  "version":     "0.0.1",
+
+  "author": {
+    "name":  "Daniel Perez Alvarez",
+    "email": "unindented@gmail.com",
+    "url":   "http://unindented.org/"
+  },
+
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/unindented/requirejs-style-plugins.git"
+  },
+
+  "engines": {
+    "node": ">=0.10.0"
+  },
+
+  "scripts": {
+    "test": "grunt"
+  },
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+    "grunt":                            "~0.4.5",
+
+    "grunt-contrib-requirejs":          "~0.4.4",
+    "grunt-contrib-connect":            "git://github.com/gruntjs/grunt-contrib-connect.git#2143ad7edf392a5612bfee802cf42ebf36e5ae52",
+    "grunt-contrib-watch":              "~0.6.1",
+
+    "grunt-contrib-jshint":             "~0.10.0",
+    "grunt-contrib-jasmine":            "~0.7.0",
+    "grunt-template-jasmine-requirejs": "~0.2.0",
+
+    "load-grunt-config":                "~0.13.1"
+  }
+}
