@@ -1,4 +1,4 @@
-# RequireJS Style Plugins
+# RequireJS Style Plugins [![Build Status](https://secure.travis-ci.org/unindented/requirejs-style-plugins.png)](http://travis-ci.org/unindented/requirejs-style-plugins)
 
 Small set of plugins for [RequireJS](http://requirejs.org/) that deal with CSS and preprocessors such as [Less](http://lesscss.org/) or [Sass](http://sass-lang.com/).
 
