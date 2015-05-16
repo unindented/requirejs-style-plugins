@@ -9,6 +9,6 @@
   },
 
   "devDependencies": {
-    "requirejs": "~2.1.14"
+    "requirejs": "~2.1.17"
   }
 }

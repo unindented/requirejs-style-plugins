@@ -29,13 +29,13 @@
     "grunt":                            "~0.4.5",
 
     "grunt-contrib-requirejs":          "~0.4.4",
-    "grunt-contrib-connect":            "git://github.com/gruntjs/grunt-contrib-connect.git#2143ad7edf392a5612bfee802cf42ebf36e5ae52",
+    "grunt-contrib-connect":            "~0.10.1",
     "grunt-contrib-watch":              "~0.6.1",
 
-    "grunt-contrib-jshint":             "~0.10.0",
-    "grunt-contrib-jasmine":            "~0.7.0",
-    "grunt-template-jasmine-requirejs": "~0.2.0",
+    "grunt-contrib-jshint":             "~0.11.2",
+    "grunt-contrib-jasmine":            "~0.8.2",
+    "grunt-template-jasmine-requirejs": "~0.2.3",
 
-    "load-grunt-config":                "~0.13.1"
+    "load-grunt-config":                "~0.17.1"
   }
 }
