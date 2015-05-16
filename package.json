@@ -1,7 +1,7 @@
 {
   "name":        "requirejs-style-plugins",
   "description": "Small set of plugins for RequireJS that deal with CSS and preprocessors.",
-  "version":     "0.0.1",
+  "version":     "0.0.2",
 
   "author": {
     "name":  "Daniel Perez Alvarez",
