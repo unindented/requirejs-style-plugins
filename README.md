@@ -1,4 +1,4 @@
-# RequireJS Style Plugins [![Build Status](https://img.shields.io/travis/unindented/requirejs-style-plugins.svg)](http://travis-ci.org/unindented/requirejs-style-plugins) [![Dependency Status](https://img.shields.io/gemnasium/unindented/requirejs-style-plugins.svg)](https://gemnasium.com/unindented/requirejs-style-plugins) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# RequireJS Style Plugins [![Build Status](https://img.shields.io/travis/unindented/requirejs-style-plugins.svg)](http://travis-ci.org/unindented/requirejs-style-plugins) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Small set of plugins for [RequireJS](http://requirejs.org/) that deal with CSS and preprocessors such as [Less](http://lesscss.org/) or [Sass](http://sass-lang.com/).
 
